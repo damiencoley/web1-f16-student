@@ -1,0 +1,14 @@
+body {
+ background-color: skyblue;
+padding-left: 100px;
+max-width: 44em
+}
+#logo{
+	margin-left
+}
+p, blockquote {
+	max-width: 22em;
+}
+img {
+	max-width: 400px;
+}
