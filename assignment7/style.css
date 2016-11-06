@@ -15,31 +15,31 @@ html {
 	}
 body { 
 	font: 100% Lucida,serif;
-	line-height: 1.88889;
+	line-height: 2;
 	color: #682516; 
 	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
 	margin: 2; 
 	padding: 0;
 	}
 p { 
-	margin-top: 5; 
-	text-align: justify;
+	margin-top: 10; 
+	text-align: left;
 	}
 h3 { 
-	font: italic normal 1.4em georgia, sans-serif;
-	letter-spacing: 1px; 
+	font: italic normal 1.6em georgia, sans-serif;
+	letter-spacing: .5px; 
 	margin-bottom: 0; 
 	color: #16B584;
 	}
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #B7A5DF;
+	color: #A81620;
 	}
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #D4CDDC;
+	color: #18B724;
 	}
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
