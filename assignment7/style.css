@@ -34,16 +34,16 @@ h3 {
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #A81620;
+	color: #B7A5CF;
 	}
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #18B724;
+	color: #16B584;
 	}
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
-	color: #9685BA;
+	color: #16B584;
 	}
 abbr {
 	border-bottom: none;
@@ -54,13 +54,13 @@ abbr {
 .page-wrapper { 
 	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
 	padding: 0 175px 0 110px;  
-	margin: 0; 
+	margin: 3; 
 	position: relative;
 	}
 
 .intro { 
-	min-width: 470px;
-	width: 100%;
+	min-width: 200px;
+	width: 70%;
 	}
 
 header h1 { 
