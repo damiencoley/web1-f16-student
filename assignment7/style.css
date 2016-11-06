@@ -29,21 +29,21 @@ h3 {
 	font: italic normal 1.6em georgia, sans-serif;
 	letter-spacing: .5px; 
 	margin-bottom: 0; 
-	color: #16B584;
+	color: #D3BE25;
 	}
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #B7A5CF;
+	color: #A71E22;
 	}
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #16B584;
+	color: #15B537;
 	}
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
-	color: #16B584;
+	color: #B7A5CF;
 	}
 abbr {
 	border-bottom: none;
