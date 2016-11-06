@@ -18,7 +18,7 @@ body {
 	line-height: 2;
 	color: #682516; 
 	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
-	margin: 2; 
+	margin: 1; 
 	padding: 0;
 	}
 p { 
@@ -60,18 +60,18 @@ abbr {
 
 .intro { 
 	min-width: 200px;
-	width: 70%;
+	width: 98%;
 	}
 
 header h1 { 
 	background: transparent url(http://csszengarden.com/001/h1.gif) no-repeat top left;
 	margin-top: 15px;
 	display: block;
-	width: 219px;
+	width: 319px;
 	height: 87px;
 	float: left;
 
-	text-indent: 100%;
+	text-indent: 200%;
 	white-space: nowrap;
 	overflow: hidden;
 	}
