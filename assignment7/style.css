@@ -100,33 +100,33 @@ header {
 	}
 .summary p {
 	font: italic 1em/2.2 georgia; 
-	text-align: center;
+	text-align: right;
 	}
 
 .preamble {
 	clear: left; 
-	padding: 4px 10px 0 10px;
+	padding: 4px 20px 0 10px;
 	}
 .supporting {	
 	padding-left: 10px; 
-	margin-bottom: 40px;
+	margin-bottom: 60px;
 	}
 
 footer { 
-	text-align: right; 
+	text-align: left; 
 	}
 footer a:link, footer a:visited { 
-	margin-right: 50px; 
+	margin-left: 30px; 
 	}
 
 .sidebar {
-	margin-left: 700px; 
+	margin-left: 600px; 
 	position: absolute; 
 	top: 0; 
 	right: 0;
 	}
 .sidebar .wrapper { 
-	font: 10px verdana, sans-serif; 
+	font: 12px verdana, sans-serif; 
 	background: transparent url(http://csszengarden.com/001/paper-bg.jpg) top left repeat-y; 
 	padding: 10px; 
 	margin-top: 150px; 
