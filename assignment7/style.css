@@ -14,11 +14,11 @@ html {
 	padding: 0;
 	}
 body { 
-	font: 70% georgia, sans-serif;
+	font: 100% Lucida,serif;
 	line-height: 1.88889;
 	color: #682516; 
 	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
-	margin: 0; 
+	margin: 2; 
 	padding: 0;
 	}
 p { 
@@ -148,13 +148,13 @@ footer a:link, footer a:visited {
 	width:57px; 
 	height: 14px; 
 
-	text-indent: 100%;
+	text-indent: 150%;
 	white-space: nowrap;
 	overflow: hidden;
 	}
 .sidebar h3.resources { 
 	background: transparent url(http://csszengarden.com/001/h6.gif) no-repeat top left; 
-	margin: 25px 0 5px 0; 
+	margin: 15px 0 5px 0; 
 	width:63px; 
 	height: 10px; 
 
@@ -165,7 +165,7 @@ footer a:link, footer a:visited {
 
 
 .sidebar ul {
-	margin: 0;
+	margin: 10;
 	padding: 0;
 	}
 .sidebar li {
@@ -189,6 +189,6 @@ footer a:link, footer a:visited {
 	position: absolute; 
 	top: 40px; 
 	right: 0; 
-	width: 148px; 
+	width: 160px; 
 	height: 110px;
 	}
