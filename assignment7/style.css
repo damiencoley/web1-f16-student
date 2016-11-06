@@ -192,3 +192,6 @@ footer a:link, footer a:visited {
 	width: 160px; 
 	height: 110px;
 	}
+ol {
+	list-style-type: lower-roman;
+}
