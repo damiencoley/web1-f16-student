@@ -88,15 +88,15 @@ header h2 {
 	overflow: hidden;
 	}
 header {
-	padding-top: 40px;
-	height: 57px;
+	padding-top: 30px;
+	height: 37px;
 }
 
 .summary {
 	clear: both; 
 	margin: 28px 30px 30px 8px; 
 	width: 160px; 
-	float: left;
+	float: right;
 	}
 .summary p {
 	font: italic 1em/2.2 georgia; 
