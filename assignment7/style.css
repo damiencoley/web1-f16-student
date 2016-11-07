@@ -22,13 +22,13 @@ body {
 	padding: 0;
 	}
 p { 
-	margin-top: 10; 
-	text-align: right;
+	margin-top: 50; 
+	text-align: left;
 	}
 h3 { 
 	font: italic normal 1.6em georgia, sans-serif;
 	letter-spacing: .5px; 
-	margin-top: : 40; 
+	margin-bottom: : 40; 
 	color: #D3BE25;
 	}
 a:link { 
@@ -37,7 +37,7 @@ a:link {
 	color: #A71E22;
 	}
 a:visited { 
-	font-weight: bold; 
+	font-weight: lighter; 
 	text-decoration: none; 
 	color: #FF5562;
 	}
