@@ -14,6 +14,7 @@ html {
 	padding: 0;
 	}
 body { 
+	/*background-size: cover;*/
 	font: 100% Lucida,serif;
 	line-height: 3;
 	color: #682516; 
@@ -28,7 +29,7 @@ p {
 h3 { 
 	font: italic normal 1.6em georgia, sans-serif;
 	letter-spacing: .3px; 
-	margin-bottom: : 10; 
+	margin-bottom: : 0; 
 	color: #D3BE25;
 	}
 a:link { 
@@ -53,14 +54,14 @@ abbr {
 /* specific divs */
 .page-wrapper { 
 	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
-	padding: 0 275px 0 110px;  
+	padding: 0 175px 0 110px;  
 	margin: 2; 
 	position: relative;
 	}
 
 .intro { 
-	min-width: 100px;
-	width: 68%;
+	min-width: 300px;
+	width: 50%;
 	}
 
 header h1 { 
@@ -77,7 +78,7 @@ header h1 {
 	}
 header h2 { 
 	background: transparent url(http://csszengarden.com/001/h2.gif) no-repeat top left; 
-	margin-bottom: : 80px; 
+	margin-bottom: : 50px; 
 	margin-bottom: 50px; 
 	width: 300px; 
 	height: 18px; 
@@ -88,15 +89,15 @@ header h2 {
 	overflow: hidden;
 	}
 header {
-	padding-top: 30px;
-	height: 37px;
+	padding-top: 20px;
+	height: 217px;
 }
 
 .summary {
 	clear: both; 
-	margin: 28px 30px 30px 8px; 
+	margin: 28px 30px 20px 6px; 
 	width: 160px; 
-	float: right;
+	float: left;
 	}
 .summary p {
 	font: italic 1em/2.2 georgia; 
@@ -105,18 +106,18 @@ header {
 
 .preamble {
 	clear: right; 
-	padding: 4px 20px 0 10px;
+	padding: 0px 10px 0 10px;
 	}
 .supporting {	
 	padding-right: 10px; 
-	margin-bottom: 60px;
+	margin-bottom: 30px;
 	}
 
 footer { 
-	text-align: left; 
+	text-align: center; 
 	}
 footer a:link, footer a:visited { 
-	margin-left: 30px; 
+	margin-left: 20px; 
 	}
 
 .sidebar {
@@ -135,7 +136,7 @@ footer a:link, footer a:visited {
 .sidebar h3.select { 
 	background: transparent url(http://csszengarden.com/001/h3.gif) no-repeat top left; 
 	margin: 10px 0 5px 0; 
-	width: 7px; 
+	width: 5S7px; 
 	height: 16px; 
 
 	text-indent: 100%;
@@ -148,7 +149,7 @@ footer a:link, footer a:visited {
 	width:57px; 
 	height: 14px; 
 
-	text-indent: 150%;
+	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
 	}
@@ -165,15 +166,15 @@ footer a:link, footer a:visited {
 
 
 .sidebar ul {
-	margin: 20;
+	margin: 0;
 	padding: 0;
 	}
 .sidebar li {
-	line-height: 1.3em; 
+	line-height: 2S.3em; 
 	background: transparent url(http://csszengarden.com/001/cr1.gif) no-repeat top center; 
 	display: block; 
 	padding-top: 5px; 
-	margin-bottom: 8px;
+	margin-bottom: 6px;
 	list-style-type: none;
 	}
 .sidebar li a:link {
@@ -192,6 +193,3 @@ footer a:link, footer a:visited {
 	width: 160px; 
 	height: 110px;
 	}
-ol {
-	list-style-type: lower-roman;
-}
