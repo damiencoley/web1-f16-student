@@ -15,20 +15,20 @@ html {
 	}
 body { 
 	font: 100% Lucida,serif;
-	line-height: 2;
+	line-height: 3;
 	color: #682516; 
 	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
-	margin: 3; 
+	margin: 0; 
 	padding: 0;
 	}
 p { 
-	margin-top: 50; 
-	text-align: left;
+	margin-top: 0; 
+	text-align: justify;
 	}
 h3 { 
 	font: italic normal 1.6em georgia, sans-serif;
-	letter-spacing: .5px; 
-	margin-bottom: : 40; 
+	letter-spacing: .3px; 
+	margin-bottom: : 10; 
 	color: #D3BE25;
 	}
 a:link { 
