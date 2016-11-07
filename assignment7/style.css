@@ -18,17 +18,17 @@ body {
 	line-height: 2;
 	color: #682516; 
 	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
-	margin: 1; 
+	margin: 3; 
 	padding: 0;
 	}
 p { 
-	margin-top: 10; 
+	margin-top: 30; 
 	text-align: left;
 	}
 h3 { 
 	font: italic normal 1.6em georgia, sans-serif;
 	letter-spacing: .5px; 
-	margin-bottom: 0; 
+	margin-top: : 0; 
 	color: #D3BE25;
 	}
 a:link { 
@@ -53,14 +53,14 @@ abbr {
 /* specific divs */
 .page-wrapper { 
 	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
-	padding: 0 175px 0 110px;  
+	padding: 0 275px 0 110px;  
 	margin: 3; 
 	position: relative;
 	}
 
 .intro { 
 	min-width: 200px;
-	width: 98%;
+	width: 68%;
 	}
 
 header h1 { 
