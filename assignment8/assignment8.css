@@ -1,7 +1,7 @@
 body {
  background-color: skyblue;
 padding-left: 100px;
-max-width: 44em
+max-width: 34em
 }
 #logo{
 	margin-left
@@ -10,5 +10,4 @@ p, blockquote {
 	max-width: 15em;
 }
 img {
-	max-width: 200px;
-}
+	max-width: 50px;
