@@ -4,3 +4,6 @@ body {
 p, blockquote {
 	max-width: 22em;
 }
+img.align-left {
+	float: left;
+	margin-right: 10px;}
