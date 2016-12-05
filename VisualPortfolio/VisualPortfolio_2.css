@@ -2,7 +2,7 @@ body {
  background-color: skyblue;
 }
 p, blockquote {
-	max-width: 22em;
+	max-width: 3em;
 }
 img.align-left {
 	float: left;
