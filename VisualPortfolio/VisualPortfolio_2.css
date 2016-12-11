@@ -1,11 +1,12 @@
 h1{
-	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 	text-align: left;
 font-size: 2.5em;
 background-color: #7fbc84;
 color: #bd5d5d;
 }
 h2{
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 	text-align: center;
 	color: #b72f2f;
 	text-shadow: 2px 2px 7px #111111;
@@ -17,10 +18,10 @@ body {
  background-color: #96da9c;
  max-width: 40em;
  margin:0 auto;
- color: white; 
+ color: #862020; 
 }
 figcaption{
-	color: white;
+	color: #862020;
 }
 
 p, blockquote {
