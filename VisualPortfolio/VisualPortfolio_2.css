@@ -52,7 +52,7 @@ img{
 }
 
 footer {
-	clear: left;
+	float: : right;
 }
 ul {
 	list-style-type: none;
