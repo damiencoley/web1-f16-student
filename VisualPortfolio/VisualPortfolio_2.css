@@ -35,6 +35,11 @@ body {
 div.background {
 	opacity: 60em
 }
+figure {
+	float: left;
+	max-width: 75px;
+	min-height: 13em;
+}
 figcaption{
 	color: black;
 }
@@ -43,6 +48,13 @@ p, blockquote {
 	max-width: 40em;
 }
 img{
-	margin-right: 10px;}
+	margin-right: 10px;
+}
 
+footer {
+	clear: left;
+}
+ul {
+	list-style-type: none;
+}
 
