@@ -14,13 +14,13 @@ font-size: 5em;
 
 body {
  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
- background-color: black;
+ background-color: lightblue;
  max-width: 40em;
  margin:0 auto;
- color: #FFFFFF; 
+ color: black;
 }
 figcaption{
-	color: #FFFFFF;
+	color: grey;
 }
 
 p, blockquote {
